@@ -69,7 +69,7 @@ The dataset should be in JSON format with the following structure:
 ```json
 {
     "info": {
-        "위기단계": "학대의심"
+        "위기단계": "정상군"
     },
     "kids_ment": [
         {"Q": "최근에 아픈 곳이 있었어?", "A": "아픈 곳 없어요."},
