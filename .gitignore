@@ -1,0 +1,21 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# 가상환경
+*.env
+.venv/
+
+# 데이터 디렉토리
+Training_data/
+Validation_data/
+
+# 로그 파일
+*.log
+
+# 특정 디렉토리
+.pixi/
+# SSH 키
+id_rsa
+id_rsa.pub
